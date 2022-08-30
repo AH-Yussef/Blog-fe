@@ -1,0 +1,17 @@
+.post-btn {
+  @apply 
+  inline-flex 
+  justify-center 
+  py-1.5 
+  px-3.5 
+  border-none 
+  shadow-sm 
+  text-base 
+  font-medium 
+  rounded-md 
+  text-white 
+  select-none 
+  bg-slate-700 
+  hover:bg-slate-800 
+  focus:outline-none
+}
